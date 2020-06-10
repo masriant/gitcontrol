@@ -6,7 +6,6 @@
     <title>Header</title>
 </head>
 <body>
-    
     <ul>
     <li>Profile</li>
     <li>About</li>
