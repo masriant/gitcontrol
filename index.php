@@ -10,6 +10,7 @@
     <ul>
     <li>Profile</li>
     <li>About</li>
+    <li>Contact</li>
     </ul>
 </body>
 </html>
