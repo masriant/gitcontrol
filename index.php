@@ -6,7 +6,7 @@
     <title>Index</title>
 </head>
 <body>
-    <p>Paragrap</p>
+    <p>Git Control</p>
     <ul>
     <li>Profile</li>
     <li>About</li>
