@@ -6,11 +6,12 @@
     <title>Header</title>
 </head>
 <body>
-    <p>Git Control</p>
+    
     <ul>
     <li>Profile</li>
     <li>About</li>
     <li>Contact</li>
     </ul>
+    <p>Git Control</p>
 </body>
 </html>
