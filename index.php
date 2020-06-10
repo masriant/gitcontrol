@@ -6,6 +6,10 @@
     <title>Index</title>
 </head>
 <body>
-    
+    <p>Paragrap</p>
+    <ul>
+    <li>Profile</li>
+    <li>About</li>
+    </ul>
 </body>
 </html>
